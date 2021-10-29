@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelthood
-- 👀 I’m interested in scoutingasa scout master
+- 👀 I’m interested in scouting as a scout master
 - 🌱 I’m currently learning JS, node, CSS, html
 - 💞️ I’m looking to collaborate on running a troop
 - 📫 How to reach me michaelthood@hotmail.com
